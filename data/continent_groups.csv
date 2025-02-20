@@ -1,0 +1,192 @@
+Area,Continents,UN_Regional_groups
+Algeria,Africa,African
+Angola,Africa,African
+Benin,Africa,African
+Botswana,Africa,African
+Burkina Faso,Africa,African
+Burundi,Africa,African
+Cabo Verde,Africa,African
+Cameroon,Africa,African
+Central African Republic,Africa,African
+Chad,Africa,African
+Comoros,Africa,African
+Congo,Africa,African
+Cote d'Ivoire,Africa,African
+Democratic Republic of the Congo,Africa,African
+Djibouti,Africa,African
+Egypt,Africa,African
+Eswatini,Africa,African
+Ethiopia,Africa,African
+Gabon,Africa,African
+Gambia,Africa,African
+Ghana,Africa,African
+Guinea,Africa,African
+Guinea-Bissau,Africa,African
+Kenya,Africa,African
+Lesotho,Africa,African
+Liberia,Africa,African
+Libya,Africa,African
+Madagascar,Africa,African
+Malawi,Africa,African
+Mali,Africa,African
+Mauritania,Africa,African
+Mauritius,Africa,African
+Morocco,Africa,African
+Mozambique,Africa,African
+Namibia,Africa,African
+Niger,Africa,African
+Nigeria,Africa,African
+Rwanda,Africa,African
+Sao Tome and Principe,Africa,African
+Senegal,Africa,African
+Seychelles,Africa,African
+Sierra Leone,Africa,African
+Somalia,Africa,African
+South Africa,Africa,African
+South Sudan,Africa,African
+Sudan,Africa,African
+Togo,Africa,African
+Tunisia,Africa,African
+Uganda,Africa,African
+United Republic of Tanzania,Africa,African
+Zambia,Africa,African
+Zimbabwe,Africa,African
+Afghanistan,Asia,Asia_pacific
+Bahrain,Asia,Asia_pacific
+Bangladesh,Asia,Asia_pacific
+Bhutan,Asia,Asia_pacific
+Cambodia,Asia,Asia_pacific
+China,Asia,Asia_pacific
+"China, Hong Kong SAR",Asia,Asia_pacific
+"China, Macao SAR",Asia,Asia_pacific
+"China, mainland",Asia,Asia_pacific
+"China, Taiwan Province of",Asia,Asia_pacific
+Democratic People's Republic of Korea,Asia,Asia_pacific
+India,Asia,Asia_pacific
+Indonesia,Asia,Asia_pacific
+Iran (Islamic Republic of),Asia,Asia_pacific
+Iraq,Asia,Asia_pacific
+Israel,Asia,Western_European
+Japan,Asia,Asia_pacific
+Jordan,Asia,Asia_pacific
+Kazakhstan,Asia,Asia_pacific
+Kuwait,Asia,Asia_pacific
+Kyrgyzstan,Asia,Asia_pacific
+Lao People's Democratic Republic,Asia,Asia_pacific
+Lebanon,Asia,Asia_pacific
+Malaysia,Asia,Asia_pacific
+Maldives,Asia,Asia_pacific
+Mongolia,Asia,Asia_pacific
+Myanmar,Asia,Asia_pacific
+Nepal,Asia,Asia_pacific
+Oman,Asia,Asia_pacific
+Pakistan,Asia,Asia_pacific
+Philippines,Asia,Asia_pacific
+Qatar,Asia,Asia_pacific
+Republic of Korea,Asia,Asia_pacific
+Saudi Arabia,Asia,Asia_pacific
+Sri Lanka,Asia,Asia_pacific
+Syrian Arab Republic,Asia,Asia_pacific
+Tajikistan,Asia,Asia_pacific
+Thailand,Asia,Asia_pacific
+Timor-Leste,Asia,Asia_pacific
+Turkiye,Asia,Asia_pacific
+Turkmenistan,Asia,Asia_pacific
+United Arab Emirates,Asia,Asia_pacific
+Uzbekistan,Asia,Asia_pacific
+Viet Nam,Asia,Asia_pacific
+Yemen,Asia,Asia_pacific
+Albania,Europe,Eastern_European
+Armenia,Asia,Eastern_European
+Austria,Europe,Western_European
+Azerbaijan,Asia,Eastern_European
+Belarus,Europe,Eastern_European
+Belgium,Europe,Western_European
+Bosnia and Herzegovina,Europe,Eastern_European
+Bulgaria,Europe,Eastern_European
+Croatia,Europe,Eastern_European
+Cyprus,Europe,Asia_pacific
+Czechia,Europe,Eastern_European
+Denmark,Europe,Western_European
+Estonia,Europe,Eastern_European
+Finland,Europe,Western_European
+France,Europe,Western_European
+Georgia,Europe,Eastern_European
+Germany,Europe,Western_European
+Greece,Europe,Western_European
+Hungary,Europe,Eastern_European
+Iceland,Europe,Western_European
+Ireland,Europe,Western_European
+Italy,Europe,Western_European
+Latvia,Europe,Eastern_European
+Lithuania,Europe,Eastern_European
+Luxembourg,Europe,Western_European
+Malta,Europe,Western_European
+Montenegro,Europe,Eastern_European
+Netherlands (Kingdom of the),Europe,Western_European
+North Macedonia,Europe,Eastern_European
+Norway,Europe,Western_European
+Poland,Europe,Eastern_European
+Portugal,Europe,Western_European
+Republic of Moldova,Europe,Eastern_European
+Romania,Europe,Eastern_European
+Russian Federation,Europe,Eastern_European
+Serbia,Europe,Eastern_European
+Slovakia,Europe,Eastern_European
+Slovenia,Europe,Eastern_European
+Spain,Europe,Western_European
+Sweden,Europe,Western_European
+Switzerland,Europe,Western_European
+Ukraine,Europe,Eastern_European
+United Kingdom of Great Britain and Northern Ireland,Europe,Western_European
+Antigua and Barbuda,North America,Latin American and Caribean
+Bahamas,North America,Latin American and Caribean
+Barbados,North America,Latin American and Caribean
+Belize,North America,Latin American and Caribean
+Canada,North America,Western_European
+Costa Rica,North America,Latin American and Caribean
+Cuba,North America,Latin American and Caribean
+Dominica,North America,Latin American and Caribean
+Dominican Republic,North America,Latin American and Caribean
+El Salvador,North America,Latin American and Caribean
+Grenada,North America,Latin American and Caribean
+Guatemala,North America,Latin American and Caribean
+Haiti,North America,Latin American and Caribean
+Honduras,North America,Latin American and Caribean
+Jamaica,North America,Latin American and Caribean
+Mexico,North America,Latin American and Caribean
+Nicaragua,North America,Latin American and Caribean
+Panama,North America,Latin American and Caribean
+Saint Kitts and Nevis,North America,Latin American and Caribean
+Saint Lucia,North America,Latin American and Caribean
+Saint Vincent and the Grenadines,North America,Latin American and Caribean
+Trinidad and Tobago,North America,Latin American and Caribean
+United States of America,North America,Western_European
+Australia,Oceania,Western_European
+Fiji,Oceania,Asia_pacific
+French Polynesia,Oceania,
+Kiribati,Oceania,Asia_pacific
+Marshall Islands,Oceania,Asia_pacific
+Micronesia (Federated States of),Oceania,
+Nauru,Oceania,Asia_pacific
+Netherlands Antilles (former),Oceania,
+New Caledonia,Oceania,
+New Zealand,Oceania,Western_European
+Papua New Guinea,Oceania,Asia_pacific
+Samoa,Oceania,Asia_pacific
+Solomon Islands,Oceania,Asia_pacific
+Tonga,Oceania,Asia_pacific
+Tuvalu,Oceania,Asia_pacific
+Vanuatu,Oceania,Asia_pacific
+Argentina,South America,Latin American and Caribean
+Bolivia (Plurinational State of),South America,Latin American and Caribean
+Brazil,South America,Latin American and Caribean
+Chile,South America,Latin American and Caribean
+Colombia,South America,Latin American and Caribean
+Ecuador,South America,Latin American and Caribean
+Guyana,South America,Latin American and Caribean
+Paraguay,South America,Latin American and Caribean
+Peru,South America,Latin American and Caribean
+Suriname,South America,Latin American and Caribean
+Uruguay,South America,Latin American and Caribean
+Venezuela (Bolivarian Republic of),South America,Latin American and Caribean
